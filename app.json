@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/image/image",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#eb5c60",
+    "navigationBarTitleText": "美丽约",
+    "navigationBarTextStyle":"white"
+  }
+}
